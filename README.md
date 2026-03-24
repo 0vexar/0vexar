@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 0vexar
+# 👋 Hi, I'm Sean
 
 ### 🎓 9th Grade Developer | Class of 2029 | Cybersecurity & AI Enthusiast
 I'm a high school student based in PA with a passion for computers, low-level systems, and digital photography. Currently bridging the gap from creative projects to actual technical security and machine learning.
@@ -25,9 +25,9 @@ I'm a high school student based in PA with a passion for computers, low-level sy
 
 ### 🎓 Favorite Subjects
 
-1. 💻 Computer Science
-2. 🟰 Mathematics
-3. 🧪 Biology/Chemistry
+1. 💻 **Computer Science**
+2. 🟰 **Mathematics**
+3. 🧪 **Biology/Chemistry**
 
 ---
 
@@ -38,5 +38,5 @@ I'm a high school student based in PA with a passion for computers, low-level sy
 ---
 
 ### 📬 Connect with me
-- **Email:** ![29huttners@gmail.com](mailto:29huttners@gmail.com)
+- **Email:** [![Email](https://img.shields.io/badge/Email-29huttners%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:29huttners@gmail.com)
 - **Portfolio:** *Not yet*
