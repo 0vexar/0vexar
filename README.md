@@ -25,7 +25,7 @@ I'm a high school student based in PA with a passion for computers, low-level sy
 
 ### 📈 What Am I Doing?
 
-- **🧠 Currently Learning:** Entry Level **Python OOP** via Boot.dev
+- **🧠 Currently Learning:** **Requests**, **BeautifulSoup** and **Textual** Python libraries
 - **🛡️ Cybersecurity:** Analyzing packets and practicing on **picoCTF** and **TryHackMe**.
 - **🎯 Future Goals:** Applying to **Carnegie Mellon University (CMU)** for CS/Cybersecurity.
 - **🏗️ Want to Learn:** C++, CUDA Programming, and Malware Analysis.
