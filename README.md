@@ -29,7 +29,7 @@ I'm a high school student based in PA with a passion for computers, low-level sy
 - **🛡️ Cybersecurity:** Analyzing packets and practicing on **picoCTF** and **TryHackMe**.
 - **🎯 Future Goals:** Applying to **Carnegie Mellon University (CMU)** for CS/Cybersecurity.
 - **🏗️ Want to Learn:** C++, CUDA Programming, and Malware Analysis.
-- 🔭 **Working on:** [picoCTF Practice](https://play.picoctf.org/) & [Boot.dev](https://www.boot.dev/)
+- 🔭 **Working on:** [Command-line native weather app](https://github.com/0vexar/WeatherCLIpy) & [Boot.dev](https://www.boot.dev/)
 
 ### 🎓 Favorite Subjects
 
