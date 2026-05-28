@@ -3,8 +3,6 @@
 ### 🎓 9th Grade Student | Class of 2029 | Cybersecurity & AI Enthusiast
 I'm a high school student based in PA with a passion for computers, low-level systems, and digital photography. Currently closing the gap from creative projects to actual technical security and machine learning.
 
-🔁 **Translating** 🔁 = I'm a high school student based in PA who likes computers and photography. I'm proficient in writing beginner Python code and "vibe coding" (Using AI).
-
 ---
 
 ### 🛠️ Tech Stack & Languages
